@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Gute-Mathe-Fragen</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_web_view">Webseite</string>
+    <string name="title_activity_fragen">Fragen RSS_Feed</string>
+    <string name="title_activity_antworten">Antworten RSS Feed</string>
+    <string name="title_activity_web_viewseite">Webseite</string>
+    <string name="networkerror">Keine Internetverbindung verfügbar! Bitte stellen sie eine Verbindung zum Internet her und versuchen sie es erneut!</string>
+    <string name="title_activity_service_fragen">ServiceFragen</string>
+    <string name="title_activity_service_antworten">ServiceAntworten</string>
+
+</resources>
